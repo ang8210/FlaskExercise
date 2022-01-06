@@ -1,0 +1,1371 @@
+2022-01-06 09:29:53,456 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:47:49,996 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:47:57,840 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:47:57,841 - root - INFO - list - Successfully
+2022-01-06 09:47:57,841 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:48:15,560 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:48:15,561 - root - INFO - list - Successfully
+2022-01-06 09:48:15,562 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:48:39,056 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:48:43,109 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:48:43,110 - root - INFO - list - Successfully
+2022-01-06 09:48:43,111 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:50:10,781 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:50:19,599 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:50:19,601 - root - INFO - list - Successfully
+2022-01-06 09:50:19,601 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:50:19,604 - root - DEBUG - {'statusCode': 200, 'msg': 'Successfully', 'list': [{'id': 1, 'item': 'Brownie', 'price': 50, 'quantity': 100}, {'id': 2, 'item': 'Tiramisu', 'price': 55, 'quantity': 100}, {'id': 3, 'item': 'Macaron', 'price': 40, 'quantity': 100}, {'id': 4, 'item': 'Scone', 'price': 35, 'quantity': 100}, {'id': 5, 'item': 'Cheesecake', 'price': 50, 'quantity': 100}]}
+2022-01-06 09:51:08,748 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:51:12,756 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:51:12,757 - root - INFO - list - Successfully
+2022-01-06 09:51:12,758 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:51:25,522 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 09:51:34,221 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 09:51:34,222 - root - INFO - list - Successfully
+2022-01-06 09:51:34,222 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 09:51:34,224 - root - DEBUG - 123
+2022-01-06 09:59:44,356 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 10:04:28,505 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 10:08:10,312 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 10:51:44,761 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 10:58:07,526 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 10:59:31,886 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:01:15,454 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:22:58,579 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:29:48,235 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:30:38,488 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:30:40,724 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 11:30:40,726 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 11:31:48,541 - root - DEBUG - addItem - {"item": "    ", "price": "1", "quantity": "2"}
+2022-01-06 11:31:48,542 - root - INFO - addItem - Format error
+2022-01-06 11:31:48,542 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:31:56,180 - root - DEBUG - addItem - {"item": "123", "price": "1", "quantity": "2"}
+2022-01-06 11:31:56,181 - root - INFO - addItem - Format error
+2022-01-06 11:31:56,182 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:58:07,445 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 11:58:22,403 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 40, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 0, 0)]
+2022-01-06 11:58:22,404 - root - INFO - list - Successfully
+2022-01-06 11:58:22,404 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 40, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 11:58:22,414 - root - DEBUG - addItem - {"item": "Puff", "price": 45, "quantity": 100}
+2022-01-06 11:58:22,415 - root - DEBUG - search - []
+2022-01-06 11:58:22,595 - root - INFO - addItem - Record successfully added
+2022-01-06 11:58:22,596 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 11:58:22,607 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 11:58:22,609 - root - DEBUG - search - [[6, "Sundae", 45, 0, 0]]
+2022-01-06 11:58:22,777 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 11:58:22,778 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 11:58:22,788 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 11:58:22,790 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 11:58:22,791 - root - INFO - addItem -  Record repeated addition
+2022-01-06 11:58:22,791 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:58:22,802 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 11:58:22,803 - root - INFO - addItem - Format error
+2022-01-06 11:58:22,804 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:58:22,814 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 11:58:22,814 - root - INFO - addItem - Format error
+2022-01-06 11:58:22,816 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:58:22,826 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 11:58:23,087 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 11:58:23,088 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 11:58:23,106 - root - DEBUG - search - []
+2022-01-06 11:58:23,107 - root - INFO - deleteItem - No such id
+2022-01-06 11:58:23,108 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 11:58:23,193 - root - DEBUG - search - [[3, "Macaron", 40, 100, 1]]
+2022-01-06 11:58:23,411 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 11:58:23,413 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 11:59:07,005 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 1), (9, 'Puff', 45, 100, 1)]
+2022-01-06 11:59:07,005 - root - INFO - list - Successfully
+2022-01-06 11:59:07,006 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 6, "item": "Sundae", "price": 45, "quantity": 100}, {"id": 9, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 11:59:07,014 - root - DEBUG - addItem - {"item": "Puff", "price": 45, "quantity": 100}
+2022-01-06 11:59:07,014 - root - DEBUG - search - [[9, "Puff", 45, 100, 1]]
+2022-01-06 11:59:07,015 - root - INFO - addItem -  Record repeated addition
+2022-01-06 11:59:07,015 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:59:07,089 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 11:59:07,089 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 11:59:07,090 - root - INFO - addItem -  Record repeated addition
+2022-01-06 11:59:07,090 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:59:07,101 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 11:59:07,101 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 11:59:07,102 - root - INFO - addItem -  Record repeated addition
+2022-01-06 11:59:07,102 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:59:07,112 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 11:59:07,113 - root - INFO - addItem - Format error
+2022-01-06 11:59:07,113 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:59:07,122 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 11:59:07,122 - root - INFO - addItem - Format error
+2022-01-06 11:59:07,123 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 11:59:07,128 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 0]]
+2022-01-06 11:59:07,129 - root - INFO - deleteItem - No such id
+2022-01-06 11:59:07,129 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 11:59:07,140 - root - DEBUG - search - []
+2022-01-06 11:59:07,140 - root - INFO - deleteItem - No such id
+2022-01-06 11:59:07,141 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 11:59:07,150 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 11:59:07,155 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 11:59:07,165 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:03:38,351 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:04:56,112 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:04:57,755 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:04:57,755 - root - INFO - list - Successfully
+2022-01-06 12:04:57,756 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:04:57,763 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:04:57,764 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:05:03,296 - root - INFO - addItem - Error in insert operation
+2022-01-06 12:05:03,297 - root - DEBUG - addItem - {"statusCode": 500, "msg": "Add failed"}
+2022-01-06 12:05:03,380 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:05:03,382 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:05:03,382 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:05:03,383 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:05:03,389 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:05:03,390 - root - INFO - addItem - Format error
+2022-01-06 12:05:03,390 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:05:03,400 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:05:03,401 - root - INFO - addItem - Format error
+2022-01-06 12:05:03,401 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:05:03,409 - root - DEBUG - search - [[7, "Puff", 45, 100, 1]]
+2022-01-06 12:05:05,380 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:05:06,165 - root - DEBUG - search - []
+2022-01-06 12:05:06,167 - root - INFO - deleteItem - No such id
+2022-01-06 12:05:06,168 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:05:06,176 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:05:11,696 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 12:05:11,696 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 12:28:42,528 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:28:45,580 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:28:45,581 - root - INFO - list - Successfully
+2022-01-06 12:28:45,581 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:28:45,590 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:28:45,591 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:28:51,111 - root - INFO - addItem - Error in insert operation
+2022-01-06 12:28:51,113 - root - DEBUG - addItem - {"statusCode": 500, "msg": "Add failed"}
+2022-01-06 12:28:51,181 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:28:51,182 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:28:51,183 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:28:51,183 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:28:51,192 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:28:51,192 - root - INFO - addItem - Format error
+2022-01-06 12:28:51,193 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:28:51,201 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:28:51,201 - root - INFO - addItem - Format error
+2022-01-06 12:28:51,202 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:28:51,209 - root - DEBUG - search - [[7, "Puff", 45, 100, 1]]
+2022-01-06 12:28:56,727 - root - INFO - deleteItem - Error in delete operation
+2022-01-06 12:28:56,728 - root - DEBUG - deleteItem - {"statusCode": 500, "msg": "Delete failed"}
+2022-01-06 12:28:56,743 - root - DEBUG - search - []
+2022-01-06 12:28:56,744 - root - INFO - deleteItem - No such id
+2022-01-06 12:28:56,745 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:28:56,754 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:29:02,286 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 12:29:02,288 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 12:29:02,302 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:29:02,304 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:29:02,304 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:29:02,305 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 12:29:02,305 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:29:02,307 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:29:02,307 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:29:07,841 - root - INFO - order - Error in order operation
+2022-01-06 12:29:07,842 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 50}
+2022-01-06 12:31:29,767 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:31:46,307 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:31:46,307 - root - INFO - list - Successfully
+2022-01-06 12:31:46,309 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:31:46,317 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:31:46,318 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:31:51,841 - root - INFO - addItem - Error in insert operation
+2022-01-06 12:31:51,842 - root - DEBUG - addItem - {"statusCode": 500, "msg": "Add failed"}
+2022-01-06 12:31:51,916 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:31:51,917 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:31:51,917 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:31:51,918 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:31:51,927 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:31:51,928 - root - INFO - addItem - Format error
+2022-01-06 12:31:51,928 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:31:51,937 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:31:51,937 - root - INFO - addItem - Format error
+2022-01-06 12:31:51,938 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:31:51,944 - root - DEBUG - search - [[7, "Puff", 45, 100, 1]]
+2022-01-06 12:31:57,486 - root - INFO - deleteItem - Error in delete operation
+2022-01-06 12:31:57,486 - root - DEBUG - deleteItem - {"statusCode": 500, "msg": "Delete failed"}
+2022-01-06 12:31:57,496 - root - DEBUG - search - []
+2022-01-06 12:31:57,497 - root - INFO - deleteItem - No such id
+2022-01-06 12:31:57,497 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:31:57,504 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:32:03,035 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 12:32:03,036 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 12:32:03,049 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:32:03,051 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:32:03,051 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:32:03,052 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 12:32:03,052 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:32:03,053 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:32:03,053 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:32:08,582 - root - INFO - order - Error in order operation
+2022-01-06 12:32:08,582 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 50}
+2022-01-06 12:32:08,593 - root - INFO - select - Error in select operation
+2022-01-06 12:33:17,419 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:33:17,419 - root - INFO - list - Successfully
+2022-01-06 12:33:17,420 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:33:17,428 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:33:17,429 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:33:22,193 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:33:22,194 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:33:22,211 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:33:22,212 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:33:22,213 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:33:22,214 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:22,222 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:33:22,223 - root - INFO - addItem - Format error
+2022-01-06 12:33:22,223 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:22,232 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:33:22,233 - root - INFO - addItem - Format error
+2022-01-06 12:33:22,234 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:22,243 - root - DEBUG - search - [[7, "Puff", 45, 100, 1]]
+2022-01-06 12:33:22,317 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:33:22,317 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:33:22,330 - root - DEBUG - search - []
+2022-01-06 12:33:22,330 - root - INFO - deleteItem - No such id
+2022-01-06 12:33:22,331 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:33:22,340 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:33:22,340 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:33:22,341 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:33:22,352 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:33:22,353 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:33:22,353 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:33:22,353 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 12:33:22,354 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:33:22,354 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:33:22,355 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 12:33:22,549 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 12:33:22,637 - root - INFO - order - Record successfully order
+2022-01-06 12:33:22,638 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:33:22,653 - root - INFO - select - Error in select operation
+2022-01-06 12:33:36,323 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:33:47,796 - root - DEBUG - [(1, 'Brownie', 50, 99, 1), (2, 'Tiramisu', 55, 99, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 1), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:33:47,798 - root - INFO - list - Successfully
+2022-01-06 12:33:47,798 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 99}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 99}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}, {"id": 6, "item": "Sundae", "price": 45, "quantity": 100}]}
+2022-01-06 12:33:47,804 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:33:47,806 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:33:47,806 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:33:47,807 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:47,885 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:33:47,886 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:33:47,886 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:33:47,887 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:47,894 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:33:47,895 - root - INFO - addItem - Format error
+2022-01-06 12:33:47,895 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:47,903 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:33:47,904 - root - INFO - addItem - Format error
+2022-01-06 12:33:47,904 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:33:47,913 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:33:47,913 - root - INFO - deleteItem - No such id
+2022-01-06 12:33:47,914 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:33:47,922 - root - DEBUG - search - []
+2022-01-06 12:33:47,924 - root - INFO - deleteItem - No such id
+2022-01-06 12:33:47,924 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:33:47,933 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:33:47,934 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:33:47,934 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:33:47,940 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:33:47,942 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 12:33:47,942 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:33:47,943 - root - DEBUG - search - [[2, "Tiramisu", 55, 99, 1]]
+2022-01-06 12:33:47,943 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:33:47,944 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:33:47,944 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 12:33:48,039 - root - DEBUG - search - [[2, "Tiramisu", 55, 99, 1]]
+2022-01-06 12:33:48,104 - root - INFO - order - Record successfully order
+2022-01-06 12:33:48,105 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:33:48,113 - root - INFO - select - Error in select operation
+2022-01-06 12:33:48,113 - root - DEBUG - select - {"statusCode": 500, "msg": "Selection failed", "select": []}
+2022-01-06 12:34:06,130 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:34:08,152 - root - DEBUG - [(1, 'Brownie', 50, 98, 1), (2, 'Tiramisu', 55, 98, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 1), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:34:08,152 - root - INFO - list - Successfully
+2022-01-06 12:34:08,153 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 98}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 98}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}, {"id": 6, "item": "Sundae", "price": 45, "quantity": 100}]}
+2022-01-06 12:34:08,163 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:34:08,165 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:34:08,165 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:34:08,166 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:34:08,240 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:34:08,241 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:34:08,242 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:34:08,242 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:34:08,248 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:34:08,249 - root - INFO - addItem - Format error
+2022-01-06 12:34:08,249 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:34:08,257 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:34:08,257 - root - INFO - addItem - Format error
+2022-01-06 12:34:08,257 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:34:08,265 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:34:08,266 - root - INFO - deleteItem - No such id
+2022-01-06 12:34:08,267 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:34:08,277 - root - DEBUG - search - []
+2022-01-06 12:34:08,277 - root - INFO - deleteItem - No such id
+2022-01-06 12:34:08,277 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:34:08,287 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:34:08,288 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:34:08,288 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:34:08,294 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:34:08,295 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 12:34:08,295 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:34:08,298 - root - DEBUG - search - [[2, "Tiramisu", 55, 98, 1]]
+2022-01-06 12:34:08,299 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:34:08,300 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:34:08,301 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 12:34:08,393 - root - DEBUG - search - [[2, "Tiramisu", 55, 98, 1]]
+2022-01-06 12:34:08,482 - root - INFO - order - Record successfully order
+2022-01-06 12:34:08,483 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:34:08,490 - root - DEBUG - select - item :Brownie
+2022-01-06 12:34:08,492 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:34:08,492 - root - DEBUG - select - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:34:08,493 - root - INFO - select - Record select successfully
+2022-01-06 12:34:08,493 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 97}]}
+2022-01-06 12:35:05,135 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:35:09,693 - root - DEBUG - [(1, 'Brownie', 50, 97, 1), (2, 'Tiramisu', 55, 97, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 1), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:35:09,693 - root - INFO - list - Successfully
+2022-01-06 12:35:09,694 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 97}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 97}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}, {"id": 6, "item": "Sundae", "price": 45, "quantity": 100}]}
+2022-01-06 12:35:09,703 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:35:09,703 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:35:09,704 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:35:09,704 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:35:09,785 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:35:09,786 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:35:09,786 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:35:09,787 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:35:09,792 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:35:09,793 - root - INFO - addItem - Format error
+2022-01-06 12:35:09,793 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:35:09,801 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:35:09,801 - root - INFO - addItem - Format error
+2022-01-06 12:35:09,801 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:35:09,811 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:35:15,329 - root - INFO - deleteItem - Error in delete operation
+2022-01-06 12:35:15,330 - root - DEBUG - deleteItem - {"statusCode": 500, "msg": "Delete failed"}
+2022-01-06 12:35:15,341 - root - DEBUG - search - []
+2022-01-06 12:35:15,342 - root - INFO - deleteItem - No such id
+2022-01-06 12:35:15,342 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:35:15,350 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:35:20,875 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 12:35:20,876 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 12:35:20,889 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:35:20,889 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:35:20,890 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:35:20,890 - root - DEBUG - search - [[2, "Tiramisu", 55, 97, 1]]
+2022-01-06 12:35:20,891 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:35:20,891 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:35:20,892 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:35:26,419 - root - INFO - order - Error in order operation
+2022-01-06 12:35:26,420 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 50}
+2022-01-06 12:35:26,437 - root - DEBUG - select - item :Brownie
+2022-01-06 12:35:26,437 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:35:26,438 - root - DEBUG - select - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:35:26,438 - root - INFO - select - Record select successfully
+2022-01-06 12:35:26,439 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 97}]}
+2022-01-06 12:36:25,126 - root - DEBUG - [(1, 'Brownie', 50, 97, 1), (2, 'Tiramisu', 55, 97, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:36:25,127 - root - INFO - list - Successfully
+2022-01-06 12:36:25,127 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 97}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 97}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:36:25,138 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:36:25,139 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:36:26,891 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:36:26,891 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:36:26,903 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:36:26,904 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:36:26,905 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:36:26,905 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:26,917 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:36:26,917 - root - INFO - addItem - Format error
+2022-01-06 12:36:26,919 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:26,929 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:36:26,929 - root - INFO - addItem - Format error
+2022-01-06 12:36:26,930 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:26,942 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:36:27,013 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:36:27,014 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:36:27,021 - root - DEBUG - search - []
+2022-01-06 12:36:27,021 - root - INFO - deleteItem - No such id
+2022-01-06 12:36:27,022 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:36:27,028 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:36:27,028 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:36:27,029 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:36:27,037 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:36:27,037 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:36:27,038 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:36:27,038 - root - DEBUG - search - [[2, "Tiramisu", 55, 97, 1]]
+2022-01-06 12:36:27,038 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:36:27,039 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:36:27,039 - root - DEBUG - search - [[1, "Brownie", 50, 97, 1]]
+2022-01-06 12:36:27,102 - root - DEBUG - search - [[2, "Tiramisu", 55, 97, 1]]
+2022-01-06 12:36:27,169 - root - INFO - order - Record successfully order
+2022-01-06 12:36:27,171 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:36:27,183 - root - DEBUG - select - item :Brownie
+2022-01-06 12:36:27,184 - root - DEBUG - search - [[1, "Brownie", 50, 96, 1]]
+2022-01-06 12:36:27,185 - root - DEBUG - select - [[1, "Brownie", 50, 96, 1]]
+2022-01-06 12:36:27,185 - root - INFO - select - Record select successfully
+2022-01-06 12:36:27,186 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 96}]}
+2022-01-06 12:36:46,933 - root - DEBUG - [(1, 'Brownie', 50, 96, 1), (2, 'Tiramisu', 55, 96, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 1)]
+2022-01-06 12:36:46,933 - root - INFO - list - Successfully
+2022-01-06 12:36:46,934 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 96}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 96}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}, {"id": 7, "item": "Puff", "price": 45, "quantity": 100}]}
+2022-01-06 12:36:46,942 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:36:46,943 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:36:47,035 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:36:47,037 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:36:47,048 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:36:47,048 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:36:47,049 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:36:47,049 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:47,056 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:36:47,056 - root - INFO - addItem - Format error
+2022-01-06 12:36:47,057 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:47,065 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:36:47,065 - root - INFO - addItem - Format error
+2022-01-06 12:36:47,066 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:36:47,072 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:36:47,136 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:36:47,138 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:36:47,146 - root - DEBUG - search - []
+2022-01-06 12:36:47,147 - root - INFO - deleteItem - No such id
+2022-01-06 12:36:47,147 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:36:47,154 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:36:47,155 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:36:47,156 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:36:47,164 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:36:47,165 - root - DEBUG - search - [[1, "Brownie", 50, 96, 1]]
+2022-01-06 12:36:47,165 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:36:47,166 - root - DEBUG - search - [[2, "Tiramisu", 55, 96, 1]]
+2022-01-06 12:36:47,166 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:36:47,167 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:36:47,167 - root - DEBUG - search - [[1, "Brownie", 50, 96, 1]]
+2022-01-06 12:36:47,236 - root - DEBUG - search - [[2, "Tiramisu", 55, 96, 1]]
+2022-01-06 12:36:47,314 - root - INFO - order - Record successfully order
+2022-01-06 12:36:47,315 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:36:47,326 - root - DEBUG - select - item :Brownie
+2022-01-06 12:36:47,326 - root - DEBUG - search - [[1, "Brownie", 50, 95, 1]]
+2022-01-06 12:36:47,327 - root - DEBUG - select - [[1, "Brownie", 50, 95, 1]]
+2022-01-06 12:36:47,328 - root - INFO - select - Record select successfully
+2022-01-06 12:36:47,328 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 95}]}
+2022-01-06 12:47:01,917 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:48:16,820 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:48:44,298 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:48:50,149 - root - DEBUG - [(1, 'Brownie', 50, 95, 1), (2, 'Tiramisu', 55, 95, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:48:50,150 - root - INFO - list - Successfully
+2022-01-06 12:48:50,151 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 95}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 95}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 12:48:50,158 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:48:50,160 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:48:50,237 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:48:50,238 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:48:50,246 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:48:50,247 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:48:50,247 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:48:50,248 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:48:50,256 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:48:50,257 - root - INFO - addItem - Format error
+2022-01-06 12:48:50,258 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:48:50,264 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:48:50,265 - root - INFO - addItem - Format error
+2022-01-06 12:48:50,265 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:48:50,274 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:48:50,348 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:48:50,348 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:48:50,355 - root - DEBUG - search - []
+2022-01-06 12:48:50,355 - root - INFO - deleteItem - No such id
+2022-01-06 12:48:50,355 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:48:50,361 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:48:50,361 - root - INFO - deleteItem - No such id
+2022-01-06 12:48:50,362 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:48:50,368 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:48:50,369 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:48:50,369 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:48:50,376 - root - DEBUG - search - []
+2022-01-06 12:48:50,377 - root - INFO - modifyPrice - No such id
+2022-01-06 12:48:50,378 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:48:50,384 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:48:50,385 - root - INFO - modifyPrice - No such id
+2022-01-06 12:48:50,386 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:48:50,426 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:48:50,427 - root - DEBUG - search - [[1, "Brownie", 50, 95, 1]]
+2022-01-06 12:48:50,428 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:48:50,429 - root - DEBUG - search - [[2, "Tiramisu", 55, 95, 1]]
+2022-01-06 12:48:50,429 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:48:50,429 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:48:50,430 - root - DEBUG - search - [[1, "Brownie", 50, 95, 1]]
+2022-01-06 12:48:50,491 - root - DEBUG - search - [[2, "Tiramisu", 55, 95, 1]]
+2022-01-06 12:48:50,559 - root - INFO - order - Record successfully order
+2022-01-06 12:48:50,561 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:48:50,575 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:48:50,576 - root - DEBUG - search - [[1, "Brownie", 50, 94, 1]]
+2022-01-06 12:48:50,577 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:48:50,577 - root - DEBUG - search - []
+2022-01-06 12:48:50,578 - root - INFO - order - Error in order operation
+2022-01-06 12:48:50,578 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:48:50,647 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:48:50,648 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 12:48:50,648 - root - INFO - order -  Order quantity is 0
+2022-01-06 12:48:50,649 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 12:48:50,649 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 12:48:50,659 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:48:50,660 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:48:50,661 - root - INFO - order - Error in order operation
+2022-01-06 12:48:50,661 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:48:50,671 - root - DEBUG - select - item :Brownie
+2022-01-06 12:48:50,671 - root - DEBUG - search - [[1, "Brownie", 50, 94, 1]]
+2022-01-06 12:48:50,672 - root - DEBUG - select - [[1, "Brownie", 50, 94, 1]]
+2022-01-06 12:48:50,672 - root - INFO - select - Record select successfully
+2022-01-06 12:48:50,673 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 94}]}
+2022-01-06 12:48:50,679 - root - DEBUG - select - item :Coke
+2022-01-06 12:48:50,679 - root - DEBUG - search - []
+2022-01-06 12:48:50,680 - root - DEBUG - select - []
+2022-01-06 12:48:50,680 - root - INFO - select - No such item
+2022-01-06 12:48:50,680 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 12:49:17,115 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:49:18,742 - root - DEBUG - [(1, 'Brownie', 50, 94, 1), (2, 'Tiramisu', 55, 94, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:49:18,742 - root - INFO - list - Successfully
+2022-01-06 12:49:18,742 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 94}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 94}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 12:49:18,748 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:49:18,749 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:49:18,858 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:49:18,858 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:49:18,868 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:49:18,869 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:49:18,870 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:49:18,870 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:49:18,876 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:49:18,877 - root - INFO - addItem - Format error
+2022-01-06 12:49:18,877 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:49:18,883 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:49:18,884 - root - INFO - addItem - Format error
+2022-01-06 12:49:18,884 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:49:18,889 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:49:18,981 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:49:18,983 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:49:18,990 - root - DEBUG - search - []
+2022-01-06 12:49:18,990 - root - INFO - deleteItem - No such id
+2022-01-06 12:49:18,991 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:49:18,997 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:49:18,998 - root - INFO - deleteItem - No such id
+2022-01-06 12:49:18,998 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:49:19,008 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:49:19,008 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:49:19,008 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:49:19,015 - root - DEBUG - search - []
+2022-01-06 12:49:19,015 - root - INFO - modifyPrice - No such id
+2022-01-06 12:49:19,016 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:49:19,024 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:49:19,024 - root - INFO - modifyPrice - No such id
+2022-01-06 12:49:19,025 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:49:19,031 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:49:19,031 - root - DEBUG - search - [[1, "Brownie", 50, 94, 1]]
+2022-01-06 12:49:19,031 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:49:19,032 - root - DEBUG - search - [[2, "Tiramisu", 55, 94, 1]]
+2022-01-06 12:49:19,032 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:49:19,033 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:49:19,034 - root - DEBUG - search - [[1, "Brownie", 50, 94, 1]]
+2022-01-06 12:49:19,204 - root - DEBUG - search - [[2, "Tiramisu", 55, 94, 1]]
+2022-01-06 12:49:19,460 - root - INFO - order - Record successfully order
+2022-01-06 12:49:19,461 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:49:19,474 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:49:19,475 - root - DEBUG - search - [[1, "Brownie", 50, 93, 1]]
+2022-01-06 12:49:19,475 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:49:19,476 - root - DEBUG - search - []
+2022-01-06 12:49:19,477 - root - INFO - order - Error in order operation
+2022-01-06 12:49:19,477 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:49:19,549 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:49:19,550 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 12:49:19,550 - root - INFO - order -  Order quantity is 0
+2022-01-06 12:49:19,550 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 12:49:19,551 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 12:49:19,573 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:49:19,574 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:49:19,574 - root - INFO - order - Error in order operation
+2022-01-06 12:49:19,575 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:49:19,620 - root - DEBUG - select - item :Brownie
+2022-01-06 12:49:19,621 - root - DEBUG - search - [[1, "Brownie", 50, 93, 1]]
+2022-01-06 12:49:19,622 - root - DEBUG - select - [[1, "Brownie", 50, 93, 1]]
+2022-01-06 12:49:19,622 - root - INFO - select - Record select successfully
+2022-01-06 12:49:19,623 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 93}]}
+2022-01-06 12:49:19,630 - root - DEBUG - select - item :Coke
+2022-01-06 12:49:19,631 - root - DEBUG - search - []
+2022-01-06 12:49:19,631 - root - DEBUG - select - []
+2022-01-06 12:49:19,633 - root - INFO - select - No such item
+2022-01-06 12:49:19,635 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 12:50:32,482 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:55:44,909 - root - DEBUG - [(1, 'Brownie', 50, 93, 1), (2, 'Tiramisu', 55, 93, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:55:44,911 - root - INFO - list - Successfully
+2022-01-06 12:55:44,911 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 93}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 93}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 12:55:44,917 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:55:44,918 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:55:46,679 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:55:46,680 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:55:46,692 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:55:46,693 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:55:46,693 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:55:46,694 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:55:46,703 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:55:46,703 - root - INFO - addItem - Format error
+2022-01-06 12:55:46,704 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:55:46,711 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:55:46,711 - root - INFO - addItem - Format error
+2022-01-06 12:55:46,712 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:55:46,722 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:55:46,789 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:55:46,790 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:55:46,800 - root - DEBUG - search - []
+2022-01-06 12:55:46,800 - root - INFO - deleteItem - No such id
+2022-01-06 12:55:46,801 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:55:46,807 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:55:46,808 - root - INFO - deleteItem - No such id
+2022-01-06 12:55:46,809 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:55:46,817 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:55:46,818 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:55:46,819 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:55:46,825 - root - DEBUG - search - []
+2022-01-06 12:55:46,826 - root - INFO - modifyPrice - No such id
+2022-01-06 12:55:46,828 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:55:46,836 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:55:46,836 - root - INFO - modifyPrice - No such id
+2022-01-06 12:55:46,836 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:55:46,841 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:55:46,842 - root - DEBUG - search - [[1, "Brownie", 50, 93, 1]]
+2022-01-06 12:55:46,842 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:55:46,844 - root - DEBUG - search - [[2, "Tiramisu", 55, 93, 1]]
+2022-01-06 12:55:46,845 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:55:46,845 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:55:46,846 - root - DEBUG - search - [[1, "Brownie", 50, 93, 1]]
+2022-01-06 12:55:46,911 - root - DEBUG - search - [[2, "Tiramisu", 55, 93, 1]]
+2022-01-06 12:55:46,969 - root - INFO - order - Record successfully order
+2022-01-06 12:55:46,971 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:55:46,980 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:55:46,981 - root - DEBUG - search - [[1, "Brownie", 50, 92, 1]]
+2022-01-06 12:55:46,982 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:55:46,982 - root - DEBUG - search - []
+2022-01-06 12:55:46,983 - root - INFO - order - Error in order operation
+2022-01-06 12:55:46,983 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:55:47,057 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:55:47,058 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 12:55:47,058 - root - INFO - order -  Order quantity is 0
+2022-01-06 12:55:47,059 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 12:55:47,060 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 12:55:47,067 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:55:47,068 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:55:47,068 - root - INFO - order - Error in order operation
+2022-01-06 12:55:47,069 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:55:47,078 - root - DEBUG - select - item :Brownie
+2022-01-06 12:55:47,078 - root - DEBUG - search - [[1, "Brownie", 50, 92, 1]]
+2022-01-06 12:55:47,079 - root - DEBUG - select - [[1, "Brownie", 50, 92, 1]]
+2022-01-06 12:55:47,079 - root - INFO - select - Record select successfully
+2022-01-06 12:55:47,079 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 92}]}
+2022-01-06 12:55:47,085 - root - DEBUG - select - item :Coke
+2022-01-06 12:55:47,086 - root - DEBUG - search - []
+2022-01-06 12:55:47,086 - root - DEBUG - select - []
+2022-01-06 12:55:47,087 - root - INFO - select - No such item
+2022-01-06 12:55:47,087 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 12:56:55,259 - root - DEBUG - [(1, 'Brownie', 50, 92, 1), (2, 'Tiramisu', 55, 92, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 12:56:55,260 - root - INFO - list - Successfully
+2022-01-06 12:56:55,260 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 92}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 92}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 12:56:55,268 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 12:56:55,269 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 12:56:55,381 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 12:56:55,383 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 12:56:55,394 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 12:56:55,395 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 12:56:55,395 - root - INFO - addItem -  Record repeated addition
+2022-01-06 12:56:55,396 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:56:55,402 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 12:56:55,403 - root - INFO - addItem - Format error
+2022-01-06 12:56:55,404 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:56:55,411 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 12:56:55,412 - root - INFO - addItem - Format error
+2022-01-06 12:56:55,412 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 12:56:55,420 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 12:56:55,514 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 12:56:55,516 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 12:56:55,559 - root - DEBUG - search - []
+2022-01-06 12:56:55,560 - root - INFO - deleteItem - No such id
+2022-01-06 12:56:55,560 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:56:55,570 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:56:55,571 - root - INFO - deleteItem - No such id
+2022-01-06 12:56:55,571 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:56:55,582 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:56:55,582 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 12:56:55,583 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 12:56:55,592 - root - DEBUG - search - []
+2022-01-06 12:56:55,593 - root - INFO - modifyPrice - No such id
+2022-01-06 12:56:55,594 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:56:55,600 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 12:56:55,601 - root - INFO - modifyPrice - No such id
+2022-01-06 12:56:55,601 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 12:56:55,611 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:56:55,611 - root - DEBUG - search - [[1, "Brownie", 50, 92, 1]]
+2022-01-06 12:56:55,612 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:56:55,612 - root - DEBUG - search - [[2, "Tiramisu", 55, 92, 1]]
+2022-01-06 12:56:55,613 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:56:55,613 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:56:55,614 - root - DEBUG - search - [[1, "Brownie", 50, 92, 1]]
+2022-01-06 12:56:55,725 - root - DEBUG - search - [[2, "Tiramisu", 55, 92, 1]]
+2022-01-06 12:56:55,814 - root - INFO - order - Record successfully order
+2022-01-06 12:56:55,816 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:56:55,821 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:56:55,822 - root - DEBUG - search - [[1, "Brownie", 50, 91, 1]]
+2022-01-06 12:56:55,822 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:56:55,824 - root - DEBUG - search - []
+2022-01-06 12:56:55,824 - root - INFO - order - Error in order operation
+2022-01-06 12:56:55,824 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:56:55,915 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:56:55,916 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 12:56:55,916 - root - INFO - order -  Order quantity is 0
+2022-01-06 12:56:55,916 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 12:56:55,917 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 12:56:55,928 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:56:55,929 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:56:55,929 - root - INFO - order - Error in order operation
+2022-01-06 12:56:55,930 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:56:55,944 - root - DEBUG - select - item :Brownie
+2022-01-06 12:56:55,946 - root - DEBUG - search - [[1, "Brownie", 50, 91, 1]]
+2022-01-06 12:56:55,946 - root - DEBUG - select - [[1, "Brownie", 50, 91, 1]]
+2022-01-06 12:56:55,947 - root - INFO - select - Record select successfully
+2022-01-06 12:56:55,948 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 91}]}
+2022-01-06 12:56:55,959 - root - DEBUG - select - item :Coke
+2022-01-06 12:56:55,960 - root - DEBUG - search - []
+2022-01-06 12:56:55,961 - root - DEBUG - select - []
+2022-01-06 12:56:55,962 - root - INFO - select - No such item
+2022-01-06 12:56:55,963 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 12:57:57,375 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:58:29,150 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 12:58:31,442 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:58:31,443 - root - DEBUG - search - [[1, "Brownie", 50, 91, 1]]
+2022-01-06 12:58:31,444 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:58:31,444 - root - DEBUG - search - [[2, "Tiramisu", 55, 91, 1]]
+2022-01-06 12:58:31,445 - root - INFO - order -  orderArr add item Tiramisu
+2022-01-06 12:58:31,445 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 12:58:31,445 - root - DEBUG - search - [[1, "Brownie", 50, 91, 1]]
+2022-01-06 12:58:31,536 - root - DEBUG - search - [[2, "Tiramisu", 55, 91, 1]]
+2022-01-06 12:58:31,613 - root - INFO - order - Record successfully order
+2022-01-06 12:58:31,614 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 12:58:31,625 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 12:58:31,626 - root - DEBUG - search - [[1, "Brownie", 50, 90, 1]]
+2022-01-06 12:58:31,626 - root - INFO - order -  orderArr add item Brownie
+2022-01-06 12:58:31,626 - root - DEBUG - search - []
+2022-01-06 12:58:31,626 - root - INFO - order - Error in order operation
+2022-01-06 12:58:31,627 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:58:31,714 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:58:31,714 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 12:58:31,714 - root - INFO - order -  Order quantity is 0
+2022-01-06 12:58:31,714 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 12:58:31,716 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 12:58:31,725 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 12:58:31,725 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 12:58:31,725 - root - INFO - order - Error in order operation
+2022-01-06 12:58:31,726 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 12:59:34,073 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:08:47,191 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:08:53,043 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:08:53,045 - root - DEBUG - search - [[1, "Brownie", 50, 90, 1]]
+2022-01-06 13:08:53,045 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:08:53,045 - root - DEBUG - search - [[2, "Tiramisu", 55, 90, 1]]
+2022-01-06 13:08:53,045 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:08:53,045 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:08:53,046 - root - DEBUG - search - [[1, "Brownie", 50, 90, 1]]
+2022-01-06 13:08:53,134 - root - DEBUG - search - [[2, "Tiramisu", 55, 90, 1]]
+2022-01-06 13:08:53,210 - root - INFO - order - Record successfully order
+2022-01-06 13:08:53,211 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 13:08:53,220 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:08:53,220 - root - DEBUG - search - [[1, "Brownie", 50, 89, 1]]
+2022-01-06 13:08:53,220 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:08:53,220 - root - DEBUG - search - []
+2022-01-06 13:08:53,220 - root - INFO - order -  No such item
+2022-01-06 13:08:53,220 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:08:53,220 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:08:53,228 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:08:53,229 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:08:53,229 - root - INFO - order - Order quantity is 0
+2022-01-06 13:08:53,229 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:08:53,229 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:08:53,235 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:08:53,236 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:08:53,236 - root - INFO - order - Error in order operation
+2022-01-06 13:08:53,236 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:14:15,313 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:14:15,315 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:14:15,315 - root - INFO - order - Error in order operation
+2022-01-06 13:14:15,316 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:16:39,052 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:16:54,551 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:16:54,551 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:16:54,551 - root - INFO - order - Error in order operation
+2022-01-06 13:16:54,552 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:18:04,454 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:18:09,045 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:18:09,046 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:18:09,046 - root - INFO - order - Error in order operation
+2022-01-06 13:18:09,047 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:18:36,510 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:18:40,718 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:18:40,719 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:18:40,719 - root - INFO - order - Error in order operation
+2022-01-06 13:18:40,719 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:19:45,681 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:19:47,249 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:19:47,250 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:19:47,250 - root - INFO - order - 100
+2022-01-06 13:19:47,250 - root - INFO - order - Error in order operation
+2022-01-06 13:19:47,251 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:20:29,974 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:20:32,119 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:20:32,120 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:20:32,120 - root - INFO - order - 100
+2022-01-06 13:20:32,120 - root - INFO - order - sum: -900
+2022-01-06 13:20:32,121 - root - INFO - order - Error in order operation
+2022-01-06 13:20:32,121 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 0}
+2022-01-06 13:20:53,248 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:20:57,708 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:20:57,709 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:20:57,709 - root - INFO - order - 100
+2022-01-06 13:20:57,710 - root - INFO - order - sum: -900
+2022-01-06 13:20:57,711 - root - DEBUG - order - CheesecakeinventoryQuantity:-900
+2022-01-06 13:20:57,711 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:20:57,713 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 13:20:57,713 - root - INFO - order - 100
+2022-01-06 13:20:57,713 - root - INFO - order - sum: 99
+2022-01-06 13:20:57,713 - root - INFO - order - OrderArr add item Scone
+2022-01-06 13:20:57,713 - root - DEBUG - order - len(order):2 len(arr):1
+2022-01-06 13:20:57,713 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 13:20:57,807 - root - INFO - order - Record successfully order
+2022-01-06 13:20:57,809 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 4, "item": "Scone", "price": 35, "orderQuantity": 1}], "total": 35}
+2022-01-06 13:23:43,452 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:23:47,912 - root - DEBUG - order - [{"item": "Cheesecake", "orderQuantity": 1000}, {"item": "Scone", "orderQuantity": 1}]
+2022-01-06 13:23:47,913 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 13:23:47,914 - root - INFO - order - 100
+2022-01-06 13:23:47,914 - root - INFO - order - sum: -900
+2022-01-06 13:23:47,915 - root - DEBUG - order - Cheesecake inventoryQuantity: -900
+2022-01-06 13:23:47,915 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:23:47,916 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:23:47,916 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:24:22,663 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:27:00,694 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:27:46,516 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:27:46,516 - root - DEBUG - search - [[1, "Brownie", 50, 89, 1]]
+2022-01-06 13:27:46,516 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:27:46,517 - root - DEBUG - search - [[2, "Tiramisu", 55, 89, 1]]
+2022-01-06 13:27:46,517 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:27:46,517 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:27:46,517 - root - DEBUG - search - [[1, "Brownie", 50, 89, 1]]
+2022-01-06 13:27:46,662 - root - DEBUG - search - [[2, "Tiramisu", 55, 89, 1]]
+2022-01-06 13:27:46,739 - root - INFO - order - Record successfully order
+2022-01-06 13:27:46,740 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 13:27:46,751 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:27:46,752 - root - DEBUG - search - [[1, "Brownie", 50, 88, 1]]
+2022-01-06 13:27:46,752 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:27:46,753 - root - DEBUG - search - []
+2022-01-06 13:27:46,753 - root - INFO - order -  No such item
+2022-01-06 13:27:46,753 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:27:46,753 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:27:46,763 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:27:46,763 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:27:46,763 - root - INFO - order - Order quantity is 0
+2022-01-06 13:27:46,763 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:27:46,763 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:27:46,769 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:27:46,770 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:27:46,770 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 13:27:46,770 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:27:46,770 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:27:46,771 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:28:08,846 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:28:11,934 - root - DEBUG - [(1, 'Brownie', 50, 88, 1), (2, 'Tiramisu', 55, 88, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 99, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 13:28:11,934 - root - INFO - list - Successfully
+2022-01-06 13:28:11,934 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 88}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 88}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 99}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 13:28:11,943 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 13:28:11,943 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 13:28:12,028 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 13:28:12,029 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 13:28:12,039 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 13:28:12,039 - root - DEBUG - search - [[4, "Scone", 35, 99, 1]]
+2022-01-06 13:28:12,039 - root - INFO - addItem -  Record repeated addition
+2022-01-06 13:28:12,040 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:28:12,047 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 13:28:12,047 - root - INFO - addItem - Format error
+2022-01-06 13:28:12,048 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:28:12,056 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 13:28:12,057 - root - INFO - addItem - Format error
+2022-01-06 13:28:12,057 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:28:12,064 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 13:28:12,140 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 13:28:12,141 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 13:28:12,149 - root - DEBUG - search - []
+2022-01-06 13:28:12,149 - root - INFO - deleteItem - No such id
+2022-01-06 13:28:12,149 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:28:12,156 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:28:12,156 - root - INFO - deleteItem - No such id
+2022-01-06 13:28:12,156 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:28:12,164 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:28:12,164 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 13:28:12,164 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 13:28:12,171 - root - DEBUG - search - []
+2022-01-06 13:28:12,172 - root - INFO - modifyPrice - No such id
+2022-01-06 13:28:12,172 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:28:12,179 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:28:12,180 - root - INFO - modifyPrice - No such id
+2022-01-06 13:28:12,180 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:28:12,186 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:28:12,187 - root - DEBUG - search - [[1, "Brownie", 50, 88, 1]]
+2022-01-06 13:28:12,187 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:28:12,188 - root - DEBUG - search - [[2, "Tiramisu", 55, 88, 1]]
+2022-01-06 13:28:12,189 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:28:12,189 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:28:12,189 - root - DEBUG - search - [[1, "Brownie", 50, 88, 1]]
+2022-01-06 13:28:12,272 - root - DEBUG - search - [[2, "Tiramisu", 55, 88, 1]]
+2022-01-06 13:28:12,450 - root - INFO - order - Record successfully order
+2022-01-06 13:28:12,450 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 13:28:12,458 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:28:12,458 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:28:12,458 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:28:12,458 - root - DEBUG - search - []
+2022-01-06 13:28:12,459 - root - INFO - order -  No such item
+2022-01-06 13:28:12,459 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:28:12,459 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:28:12,464 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:28:12,465 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:28:12,465 - root - INFO - order - Order quantity is 0
+2022-01-06 13:28:12,465 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:28:12,465 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:28:12,472 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:28:12,472 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:28:12,472 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 13:28:12,472 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:28:12,473 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:28:12,473 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:28:12,480 - root - DEBUG - select - item :Brownie
+2022-01-06 13:28:12,480 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:28:12,480 - root - DEBUG - select - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:28:12,480 - root - INFO - select - Record select successfully
+2022-01-06 13:28:12,481 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 87}]}
+2022-01-06 13:28:12,490 - root - DEBUG - select - item :Coke
+2022-01-06 13:28:12,490 - root - DEBUG - search - []
+2022-01-06 13:28:12,490 - root - DEBUG - select - []
+2022-01-06 13:28:12,490 - root - INFO - select - No such item
+2022-01-06 13:28:12,491 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 13:34:21,816 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:34:27,903 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:34:38,191 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:34:58,048 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:35:22,418 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:35:24,635 - root - DEBUG - [(1, 'Brownie', 50, 87, 1), (2, 'Tiramisu', 55, 87, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 99, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 13:35:24,635 - root - INFO - list - Successfully
+2022-01-06 13:35:24,635 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 87}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 87}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 99}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 13:35:24,641 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 13:35:24,641 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 13:35:30,190 - root - INFO - addItem - Error in insert operation
+2022-01-06 13:35:30,191 - root - DEBUG - addItem - {"statusCode": 500, "msg": "Add failed"}
+2022-01-06 13:35:30,267 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 13:35:30,268 - root - DEBUG - search - [[4, "Scone", 35, 99, 1]]
+2022-01-06 13:35:30,268 - root - INFO - addItem -  Record repeated addition
+2022-01-06 13:35:30,270 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:35:30,278 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 13:35:30,278 - root - INFO - addItem - Format error
+2022-01-06 13:35:30,279 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:35:30,285 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 13:35:30,285 - root - INFO - addItem - Format error
+2022-01-06 13:35:30,286 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:35:30,293 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 13:35:30,293 - root - INFO - deleteItem - No such id
+2022-01-06 13:35:30,294 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:35:30,304 - root - DEBUG - search - []
+2022-01-06 13:35:30,304 - root - INFO - deleteItem - No such id
+2022-01-06 13:35:30,304 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:35:30,312 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:35:30,313 - root - INFO - deleteItem - No such id
+2022-01-06 13:35:30,313 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:35:30,321 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:35:35,853 - root - INFO - modifyPrice - Error in change operation
+2022-01-06 13:35:35,854 - root - DEBUG - modifyPrice - {"statusCode": 500, "msg": "Change failed"}
+2022-01-06 13:35:35,865 - root - DEBUG - search - []
+2022-01-06 13:35:35,865 - root - INFO - modifyPrice - No such id
+2022-01-06 13:35:35,866 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:35:35,873 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:35:35,873 - root - INFO - modifyPrice - No such id
+2022-01-06 13:35:35,874 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:35:35,880 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:35:35,880 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:35:35,880 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:35:35,881 - root - DEBUG - search - [[2, "Tiramisu", 55, 87, 1]]
+2022-01-06 13:35:35,881 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:35:35,881 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:35:35,882 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:35:41,421 - root - INFO - order - Error in order operation
+2022-01-06 13:35:41,423 - root - DEBUG - order -{"statusCode": 500, "msg": "Order failed", "order": [], "total": 50}
+2022-01-06 13:35:41,436 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:35:41,436 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:35:41,436 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:35:41,437 - root - DEBUG - search - []
+2022-01-06 13:35:41,437 - root - INFO - order -  No such item
+2022-01-06 13:35:41,437 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:35:41,438 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:35:41,445 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:35:41,445 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:35:41,445 - root - INFO - order - Order quantity is 0
+2022-01-06 13:35:41,446 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:35:41,446 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:35:41,452 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:35:41,453 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:35:41,453 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 13:35:41,453 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:35:41,453 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:35:41,453 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:35:41,459 - root - DEBUG - select - item :Brownie
+2022-01-06 13:35:41,459 - root - DEBUG - search - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:35:41,459 - root - DEBUG - select - [[1, "Brownie", 50, 87, 1]]
+2022-01-06 13:35:41,459 - root - INFO - select - Record select successfully
+2022-01-06 13:35:41,460 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 87}]}
+2022-01-06 13:35:41,467 - root - DEBUG - select - item :Coke
+2022-01-06 13:35:41,468 - root - DEBUG - search - []
+2022-01-06 13:35:41,468 - root - DEBUG - select - []
+2022-01-06 13:35:41,468 - root - INFO - select - No such item
+2022-01-06 13:35:41,468 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 13:36:15,498 - root - DEBUG - [(1, 'Brownie', 50, 100, 1), (2, 'Tiramisu', 55, 100, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 13:36:15,498 - root - INFO - list - Successfully
+2022-01-06 13:36:15,498 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 100}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 100}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 13:36:15,507 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 13:36:15,507 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 13:36:15,597 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 13:36:15,599 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 13:36:15,610 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 13:36:15,610 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 13:36:15,610 - root - INFO - addItem -  Record repeated addition
+2022-01-06 13:36:15,611 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:36:15,617 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 13:36:15,617 - root - INFO - addItem - Format error
+2022-01-06 13:36:15,618 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:36:15,627 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 13:36:15,627 - root - INFO - addItem - Format error
+2022-01-06 13:36:15,627 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:36:15,634 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 13:36:15,718 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 13:36:15,719 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 13:36:15,727 - root - DEBUG - search - []
+2022-01-06 13:36:15,727 - root - INFO - deleteItem - No such id
+2022-01-06 13:36:15,728 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:36:15,734 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:36:15,735 - root - INFO - deleteItem - No such id
+2022-01-06 13:36:15,735 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:36:15,744 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:36:15,744 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 13:36:15,744 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 13:36:15,750 - root - DEBUG - search - []
+2022-01-06 13:36:15,750 - root - INFO - modifyPrice - No such id
+2022-01-06 13:36:15,751 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:36:15,759 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:36:15,759 - root - INFO - modifyPrice - No such id
+2022-01-06 13:36:15,760 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:36:15,766 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:36:15,767 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 13:36:15,767 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:36:15,767 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 13:36:15,767 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:36:15,768 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:36:15,768 - root - DEBUG - search - [[1, "Brownie", 50, 100, 1]]
+2022-01-06 13:36:15,853 - root - DEBUG - search - [[2, "Tiramisu", 55, 100, 1]]
+2022-01-06 13:36:15,941 - root - INFO - order - Record successfully order
+2022-01-06 13:36:15,943 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 13:36:15,954 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:36:15,954 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 13:36:15,954 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:36:15,955 - root - DEBUG - search - []
+2022-01-06 13:36:15,956 - root - INFO - order -  No such item
+2022-01-06 13:36:15,956 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:36:15,956 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:36:15,963 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:36:15,963 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:36:15,963 - root - INFO - order - Order quantity is 0
+2022-01-06 13:36:15,964 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:36:15,964 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:36:15,971 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:36:15,972 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:36:15,972 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 13:36:15,972 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:36:15,972 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:36:15,972 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:36:15,980 - root - DEBUG - select - item :Brownie
+2022-01-06 13:36:15,980 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 13:36:15,980 - root - DEBUG - select - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 13:36:15,980 - root - INFO - select - Record select successfully
+2022-01-06 13:36:15,980 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 99}]}
+2022-01-06 13:36:15,986 - root - DEBUG - select - item :Coke
+2022-01-06 13:36:15,987 - root - DEBUG - search - []
+2022-01-06 13:36:15,987 - root - DEBUG - select - []
+2022-01-06 13:36:15,987 - root - INFO - select - No such item
+2022-01-06 13:36:15,987 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 13:41:18,266 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:42:19,362 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:42:41,517 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:43:13,449 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:44:08,784 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:44:29,804 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 13:44:33,658 - root - DEBUG - [(1, 'Brownie', 50, 99, 1), (2, 'Tiramisu', 55, 99, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0), (7, 'Puff', 45, 100, 0)]
+2022-01-06 13:44:33,658 - root - INFO - list - Successfully
+2022-01-06 13:44:33,658 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 99}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 99}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 13:44:33,667 - root - DEBUG - addItem - {"item": "Sundae", "price": 45, "quantity": 100}
+2022-01-06 13:44:33,668 - root - DEBUG - search - [[6, "Sundae", 45, 100, 0]]
+2022-01-06 13:44:33,781 - root - INFO - addItem - Record successfully change isDelete staus
+2022-01-06 13:44:33,782 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 13:44:33,793 - root - DEBUG - addItem - {"item": "Scone", "price": 35, "quantity": 100}
+2022-01-06 13:44:33,794 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 13:44:33,794 - root - INFO - addItem -  Record repeated addition
+2022-01-06 13:44:33,794 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:44:33,801 - root - DEBUG - addItem - {"item": "Lava cake", "price": -20, "quantity": 100}
+2022-01-06 13:44:33,802 - root - INFO - addItem - Format error
+2022-01-06 13:44:33,802 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:44:33,810 - root - DEBUG - addItem - {"item": "  ", "price": 20, "quantity": 100}
+2022-01-06 13:44:33,810 - root - INFO - addItem - Format error
+2022-01-06 13:44:33,810 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 13:44:33,816 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 13:44:33,904 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 13:44:33,906 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 13:44:33,916 - root - DEBUG - search - []
+2022-01-06 13:44:33,916 - root - INFO - deleteItem - No such id
+2022-01-06 13:44:33,917 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:44:33,926 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:44:33,926 - root - INFO - deleteItem - No such id
+2022-01-06 13:44:33,926 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:44:33,933 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:44:33,934 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 13:44:33,935 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 13:44:33,943 - root - DEBUG - search - []
+2022-01-06 13:44:33,943 - root - INFO - modifyPrice - No such id
+2022-01-06 13:44:33,943 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:44:33,949 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:44:33,950 - root - INFO - modifyPrice - No such id
+2022-01-06 13:44:33,950 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 13:44:33,959 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:44:33,960 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 13:44:33,960 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:44:33,960 - root - DEBUG - search - [[2, "Tiramisu", 55, 99, 1]]
+2022-01-06 13:44:33,960 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 13:44:33,961 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 13:44:33,961 - root - DEBUG - search - [[1, "Brownie", 50, 99, 1]]
+2022-01-06 13:44:34,127 - root - DEBUG - search - [[2, "Tiramisu", 55, 99, 1]]
+2022-01-06 13:44:34,304 - root - INFO - order - Record successfully order
+2022-01-06 13:44:34,305 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 1}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 1}], "total": 105}
+2022-01-06 13:44:34,314 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Coke", "orderQuantity": 1}]
+2022-01-06 13:44:34,315 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 13:44:34,315 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:44:34,316 - root - DEBUG - search - []
+2022-01-06 13:44:34,316 - root - INFO - order -  No such item
+2022-01-06 13:44:34,317 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:44:34,317 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:44:34,325 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 1}, {"item": "Puff", "orderQuantity": 1}]
+2022-01-06 13:44:34,325 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 13:44:34,325 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 13:44:34,325 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:44:34,326 - root - INFO - order -  No such item
+2022-01-06 13:44:34,326 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:44:34,326 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 13:44:34,331 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:44:34,331 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 13:44:34,331 - root - INFO - order - Order quantity is 0
+2022-01-06 13:44:34,332 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:44:34,332 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:44:34,372 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 13:44:34,373 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 13:44:34,373 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 13:44:34,373 - root - INFO - order - Inventory quantity not enough
+2022-01-06 13:44:34,374 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 13:44:34,374 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Order failed", "order": [], "total": 0}
+2022-01-06 13:44:34,384 - root - DEBUG - select - item :Brownie
+2022-01-06 13:44:34,384 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 13:44:34,385 - root - DEBUG - select - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 13:44:34,385 - root - INFO - select - Record select successfully
+2022-01-06 13:44:34,385 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 98}]}
+2022-01-06 13:44:34,394 - root - DEBUG - select - item :Coke
+2022-01-06 13:44:34,394 - root - DEBUG - search - []
+2022-01-06 13:44:34,394 - root - DEBUG - select - []
+2022-01-06 13:44:34,394 - root - INFO - select - No such item
+2022-01-06 13:44:34,395 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 13:44:34,406 - root - DEBUG - select - item :Puff
+2022-01-06 13:44:34,407 - root - DEBUG - search - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:44:34,407 - root - DEBUG - select - [[7, "Puff", 45, 100, 0]]
+2022-01-06 13:44:34,407 - root - INFO - select - No such item
+2022-01-06 13:44:34,408 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 17:25:04,070 - root - DEBUG - addItem - {"item": "123", "price": "1", "quantity": "2"}
+2022-01-06 17:25:04,072 - root - INFO - addItem - Format error
+2022-01-06 17:25:04,073 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 17:25:15,511 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 17:25:15,513 - root - DEBUG - search - []
+2022-01-06 17:25:15,605 - root - INFO - addItem - Record successfully added
+2022-01-06 17:25:15,606 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 17:34:46,076 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 17:34:46,077 - root - DEBUG - search - []
+2022-01-06 17:34:46,169 - root - INFO - addItem - Record successfully added
+2022-01-06 17:34:46,170 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 17:37:17,621 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 17:37:17,622 - root - DEBUG - search - []
+2022-01-06 17:37:19,386 - root - INFO - addItem - Record successfully added
+2022-01-06 17:37:19,387 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 17:50:00,952 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 17:50:22,618 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 17:50:22,620 - root - DEBUG - search - []
+2022-01-06 17:50:22,904 - root - INFO - addItem - Record successfully added
+2022-01-06 17:50:22,904 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 18:18:14,311 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 18:31:41,452 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:31:41,453 - root - DEBUG - search - []
+2022-01-06 18:31:41,564 - root - INFO - addItem - Record successfully added
+2022-01-06 18:31:41,566 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 18:31:54,849 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:31:54,850 - root - DEBUG - search - []
+2022-01-06 18:31:55,042 - root - INFO - addItem - Record successfully added
+2022-01-06 18:31:55,044 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 18:32:24,043 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:32:24,044 - root - DEBUG - search - []
+2022-01-06 18:32:24,131 - root - INFO - addItem - Record successfully added
+2022-01-06 18:32:24,132 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 18:34:08,697 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:34:08,697 - root - DEBUG - search - []
+2022-01-06 18:34:08,792 - root - INFO - addItem - Record successfully added
+2022-01-06 18:34:08,793 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 18:39:33,377 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:39:33,378 - root - DEBUG - search - []
+2022-01-06 18:39:38,924 - root - INFO - addItem - Error in insert operation
+2022-01-06 18:39:38,925 - root - DEBUG - addItem - {"statusCode": 500, "msg": "Add failed"}
+2022-01-06 18:39:54,060 - root - DEBUG - addItem - {"item": "123", "price": 30, "quantity": 50}
+2022-01-06 18:39:54,060 - root - DEBUG - search - []
+2022-01-06 18:39:54,166 - root - INFO - addItem - Record successfully added
+2022-01-06 18:39:54,166 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 20:12:44,006 - root - DEBUG - [(1, 'Brownie', 50, 98, 1), (2, 'Tiramisu', 55, 98, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0)]
+2022-01-06 20:12:44,006 - root - INFO - list - Successfully
+2022-01-06 20:12:44,007 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 98}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 98}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 20:14:01,543 - root - DEBUG - [(1, 'Brownie', 50, 98, 1), (2, 'Tiramisu', 55, 98, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 1), (6, 'Sundae', 45, 100, 0)]
+2022-01-06 20:14:01,543 - root - INFO - list - Successfully
+2022-01-06 20:14:01,543 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 98}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 98}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 5, "item": "Cheesecake", "price": 50, "quantity": 100}]}
+2022-01-06 20:20:34,341 - root - DEBUG - addItem - {"item": "Puff ", "price": 45, "quantity": 100}
+2022-01-06 20:20:34,341 - root - DEBUG - search - []
+2022-01-06 20:20:36,141 - root - INFO - addItem - Record successfully added
+2022-01-06 20:20:36,142 - root - DEBUG - addItem - {"statusCode": 200, "msg": "Successfully added"}
+2022-01-06 21:20:37,926 - root - DEBUG - addItem - {"item": "Scone", "price": 55, "quantity": 100}
+2022-01-06 21:20:39,387 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:20:39,387 - root - INFO - addItem -  Record repeated addition
+2022-01-06 21:20:39,388 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 21:21:59,655 - root - DEBUG - addItem - {"item": "                 ", "price": -10, "quantity": -10}
+2022-01-06 21:21:59,655 - root - INFO - addItem - Format error
+2022-01-06 21:21:59,655 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 21:24:12,838 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 21:24:28,672 - root - DEBUG - addItem - {"item": "Scone", "price": 55, "quantity": 100}
+2022-01-06 21:24:28,672 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:24:28,672 - root - INFO - addItem -  Record repeated addition
+2022-01-06 21:24:28,672 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Add failed"}
+2022-01-06 21:24:34,010 - root - DEBUG - addItem - {"item": "                 ", "price": -10, "quantity": -10}
+2022-01-06 21:24:34,010 - root - INFO - addItem - Parameter format error
+2022-01-06 21:24:34,011 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 21:29:25,246 - root - DEBUG - search - [[5, "Cheesecake", 50, 100, 1]]
+2022-01-06 21:29:25,821 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 21:29:25,822 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 21:29:53,378 - root - DEBUG - search - []
+2022-01-06 21:29:53,378 - root - INFO - deleteItem - No such id
+2022-01-06 21:29:53,378 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 21:33:56,142 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 21:33:56,142 - root - INFO - modifyPrice - Record change successfully
+2022-01-06 21:33:56,143 - root - DEBUG - modifyPrice - {"statusCode": 200, "msg": "Successfully change"}
+2022-01-06 21:34:17,425 - root - DEBUG - search - []
+2022-01-06 21:34:17,425 - root - INFO - modifyPrice - No such id
+2022-01-06 21:34:17,425 - root - DEBUG - modifyPrice - {"statusCode": 400, "msg": "No such id"}
+2022-01-06 21:46:11,542 - root - DEBUG - select - item :Scone
+2022-01-06 21:46:11,543 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:46:11,543 - root - DEBUG - select - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:46:11,543 - root - INFO - select - Record select successfully
+2022-01-06 21:46:11,544 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 4, "item": "Scone", "price": 35, "quantity": 100}]}
+2022-01-06 21:47:08,254 - root - DEBUG - select - item :Scone
+2022-01-06 21:47:08,254 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:47:08,254 - root - DEBUG - select - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:47:08,255 - root - INFO - select - Record select successfully
+2022-01-06 21:47:08,255 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 4, "item": "Scone", "price": 35, "quantity": 100}]}
+2022-01-06 21:47:49,044 - root - DEBUG - select - item :123
+2022-01-06 21:47:49,045 - root - DEBUG - search - []
+2022-01-06 21:47:49,045 - root - DEBUG - select - []
+2022-01-06 21:47:49,045 - root - INFO - select - No such item
+2022-01-06 21:47:49,046 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 21:48:02,369 - root - DEBUG - select - item :Scone
+2022-01-06 21:48:02,370 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:48:02,370 - root - DEBUG - select - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:48:02,371 - root - INFO - select - Record select successfully
+2022-01-06 21:48:02,372 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 4, "item": "Scone", "price": 35, "quantity": 100}]}
+2022-01-06 21:48:23,759 - root - DEBUG - select - item :"Scone"
+2022-01-06 21:48:23,760 - root - DEBUG - search - []
+2022-01-06 21:48:23,760 - root - DEBUG - select - []
+2022-01-06 21:48:23,760 - root - INFO - select - No such item
+2022-01-06 21:48:23,761 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 21:48:28,780 - root - DEBUG - select - item :"Scone"
+2022-01-06 21:48:28,780 - root - DEBUG - search - []
+2022-01-06 21:48:28,780 - root - DEBUG - select - []
+2022-01-06 21:48:28,780 - root - INFO - select - No such item
+2022-01-06 21:48:28,781 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 21:48:33,543 - root - DEBUG - select - item :Scone
+2022-01-06 21:48:33,544 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:48:33,544 - root - DEBUG - select - [[4, "Scone", 35, 100, 1]]
+2022-01-06 21:48:33,544 - root - INFO - select - Record select successfully
+2022-01-06 21:48:33,544 - root - DEBUG - select - {"statusCode": 200, "msg": "Successfully select", "select": [{"id": 4, "item": "Scone", "price": 35, "quantity": 100}]}
+2022-01-06 21:51:18,416 - root - DEBUG - select - item :Coke
+2022-01-06 21:51:18,417 - root - DEBUG - search - []
+2022-01-06 21:51:18,417 - root - DEBUG - select - []
+2022-01-06 21:51:18,417 - root - INFO - select - No such item
+2022-01-06 21:51:18,418 - root - DEBUG - select - {"statusCode": 400, "msg": "No such item", "select": []}
+2022-01-06 21:52:24,366 - root - DEBUG - [(1, 'Brownie', 50, 98, 1), (2, 'Tiramisu', 55, 98, 1), (3, 'Macaron', 30, 100, 1), (4, 'Scone', 35, 100, 1), (5, 'Cheesecake', 50, 100, 0), (6, 'Sundae', 45, 100, 0), (7, 'Puff ', 45, 100, 1)]
+2022-01-06 21:52:24,366 - root - INFO - list - Successfully
+2022-01-06 21:52:24,366 - root - DEBUG - list - {"statusCode": 200, "msg": "Successfully", "list": [{"id": 1, "item": "Brownie", "price": 50, "quantity": 98}, {"id": 2, "item": "Tiramisu", "price": 55, "quantity": 98}, {"id": 3, "item": "Macaron", "price": 30, "quantity": 100}, {"id": 4, "item": "Scone", "price": 35, "quantity": 100}, {"id": 7, "item": "Puff ", "price": 45, "quantity": 100}]}
+2022-01-06 21:57:47,890 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 21:58:16,297 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 2}, {"item": "Tiramisu", "orderQuantity": 3}]
+2022-01-06 21:58:16,298 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 21:58:16,298 - root - INFO - order - OrderArr add item Brownie
+2022-01-06 21:58:16,299 - root - DEBUG - search - [[2, "Tiramisu", 55, 98, 1]]
+2022-01-06 21:58:16,300 - root - INFO - order - OrderArr add item Tiramisu
+2022-01-06 21:58:16,300 - root - DEBUG - order - len(order):2 len(arr):2
+2022-01-06 21:58:16,300 - root - DEBUG - search - [[1, "Brownie", 50, 98, 1]]
+2022-01-06 21:58:16,392 - root - DEBUG - search - [[2, "Tiramisu", 55, 98, 1]]
+2022-01-06 21:58:16,469 - root - INFO - order - Record successfully order
+2022-01-06 21:58:16,470 - root - DEBUG - order -{"statusCode": 200, "msg": "Successfully order", "order": [{"id": 1, "item": "Brownie", "price": 50, "orderQuantity": 2}, {"id": 2, "item": "Tiramisu", "price": 55, "orderQuantity": 3}], "total": 265}
+2022-01-06 21:58:51,663 - root - DEBUG - order - [{"item": "Coke", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 21:58:51,663 - root - DEBUG - order - Coke orderQuantity:0
+2022-01-06 21:58:51,663 - root - INFO - order - Order quantity is 0
+2022-01-06 21:58:51,664 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 21:58:51,664 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Parameter format error", "order": [], "total": 0}
+2022-01-06 21:59:27,423 - root - DEBUG - order - [{"item": "Coke", "orderQuantity": 2}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 21:59:27,423 - root - DEBUG - search - []
+2022-01-06 21:59:27,423 - root - INFO - order -  No such item
+2022-01-06 21:59:27,423 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 21:59:27,424 - root - DEBUG - order -{"statusCode": 400, "msg": "order - No such item", "order": [], "total": 0}
+2022-01-06 21:59:48,156 - root - DEBUG - order - [{"item": "Brownie", "orderQuantity": 0}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 21:59:48,156 - root - DEBUG - order - Brownie orderQuantity:0
+2022-01-06 21:59:48,156 - root - INFO - order - Order quantity is 0
+2022-01-06 21:59:48,156 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 21:59:48,156 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Parameter format error", "order": [], "total": 0}
+2022-01-06 22:00:16,904 - root - DEBUG - order - [{"item": "Macaron", "orderQuantity": 1000}, {"item": "Tiramisu", "orderQuantity": 1}]
+2022-01-06 22:00:16,905 - root - DEBUG - search - [[3, "Macaron", 30, 100, 1]]
+2022-01-06 22:00:16,905 - root - DEBUG - order - Macaron inventoryQuantity: -900
+2022-01-06 22:00:16,905 - root - INFO - order - Inventory quantity not enough
+2022-01-06 22:00:16,905 - root - DEBUG - order - len(order):2 len(arr):0
+2022-01-06 22:00:16,905 - root - DEBUG - order -{"statusCode": 400, "msg": "order - Understock", "order": [], "total": 0}
+2022-01-06 22:21:15,488 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 22:21:39,167 - root - DEBUG - addItem - {"item": "Scone", "price": 55, "quantity": 100}
+2022-01-06 22:21:39,167 - root - DEBUG - search - [[4, "Scone", 35, 100, 1]]
+2022-01-06 22:21:39,167 - root - INFO - addItem -  Record repeated addition
+2022-01-06 22:21:39,168 - root - DEBUG - addItem - {"statusCode": 400, "msg": "Repeated addition"}
+2022-01-06 22:22:54,784 - root - INFO - deleteItem - Error in delete operation
+2022-01-06 22:22:54,784 - root - DEBUG - deleteItem - {"statusCode": 500, "msg": "Delete failed"}
+2022-01-06 22:26:34,832 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 22:26:37,666 - root - INFO - deleteItem - Parameter format error
+2022-01-06 22:26:37,666 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 22:27:03,563 - root - INFO - deleteItem - Parameter format error
+2022-01-06 22:27:03,564 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 22:27:09,285 - root - INFO - deleteItem - Parameter format error
+2022-01-06 22:27:09,287 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 22:27:43,122 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 22:27:44,841 - root - INFO - deleteItem - Parameter format error
+2022-01-06 22:27:44,841 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 22:30:13,971 - werkzeug - INFO -  * Restarting with stat
+2022-01-06 22:30:14,917 - root - DEBUG - search - [[7, "Puff ", 45, 100, 1]]
+2022-01-06 22:30:15,029 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 22:30:15,029 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 22:30:20,560 - root - INFO - deleteItem - Parameter format error
+2022-01-06 22:30:20,560 - root - DEBUG - deleteItem - {"statusCode": 400, "msg": "Parameter format error"}
+2022-01-06 22:31:33,428 - root - DEBUG - search - [[6, "Sundae", 45, 100, 1]]
+2022-01-06 22:31:33,522 - root - INFO - deleteItem - Record successfully deleted
+2022-01-06 22:31:33,524 - root - DEBUG - deleteItem - {"statusCode": 200, "msg": "Successfully deleted"}
+2022-01-06 22:31:56,429 - werkzeug - INFO -  * Restarting with stat

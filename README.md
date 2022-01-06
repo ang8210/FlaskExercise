@@ -4,9 +4,12 @@ Using SQLite 3 with Flask
 Create PSI system
 
 ## Functions
-1. 新增品項
-2. 刪除品項
-3. 更新特定品項的單價
-4. 下單 - 由 DB 拿出品項價格 回傳總價格 → 需更新DB內的總數量
-5. 顯示所有列表
-6. 查詢品項
+1. Add item
+2. Delete item
+3. Update the price of item
+4. Order
+5. Show all lists
+6. Search item
+
+## API
+https://docs.google.com/document/d/1-q7fJDpEgwjmscisNES7f56oC1CfGTvUSTBfLc5XBXE/edit?usp=sharing
